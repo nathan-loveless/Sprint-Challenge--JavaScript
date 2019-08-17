@@ -43,10 +43,10 @@ It is functions nested together where the nested function can access the scope o
 
 4. Describe the four rules of the 'this' keyword.
 
-1.  Global Binding- This is the global window object.
-2.  Implicit Binding- when a function is called by a dot to the left, "." = this.
-3.  Explicit Binding- When a call() or apply() method is used.
-4.  New Binding- When a constructor function is used, this refers to the specific instance.
+Global Binding- This is the global window object.
+Implicit Binding- when a function is called by a dot to the left, "." = this.
+Explicit Binding- When a call() or apply() method is used.
+New Binding- When a constructor function is used, this refers to the specific instance.
 
 5. Why do we need super() in an extended class?
 
